@@ -1,5 +1,3 @@
-# CIS-11-Final-Course-Project
-
 # CIS-11 Project B: Test Score Calculator
 
 ## Team Information
